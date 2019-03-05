@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Fake command-line based inventory system for fake Bamazon store.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnholcomb/bamazon.git"
+  },
+  "author": "Shawn Holcomb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnholcomb/bamazon/issues"
+  },
+  "homepage": "https://github.com/shawnholcomb/bamazon#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
