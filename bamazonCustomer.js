@@ -35,7 +35,7 @@ function buyItem() {
             {
                 name: "itemToBuy",
                 type: "input",
-                message: "What is the item ID of the product you would like to buy?\n",
+                message: "What is the item ID of the product you would like to buy?",
                 validate: function (value) {
                     if ((value > 0) && (value <= tableLength)) {
                         return true;
