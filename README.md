@@ -11,3 +11,5 @@ Using the bamazonCustomer.js file, customers are able to "purchase" products.  T
 ### Manager Functions
 
 Using the bamazonManager.js file, managers are able to perform a number of functions.  They are able to view a table of all items currently available, view low inventory (defined as any item with fewer than 5 units in inventory), add additional quantities of current products into inventory and add new products into inventory.
+
+### Supervisor Functions
