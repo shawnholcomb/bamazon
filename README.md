@@ -24,4 +24,4 @@ Using the bamazonManager.js file, managers are able to perform a number of funct
 
 ![Supervisor Functions](https://media.giphy.com/media/1ZDyiUv0NrAdQJnQTU/giphy.gif)
 
-Using the bamazonSupervisor.js file, supervisors are able to perform multiple functions.  Supervisors are able to view sales by department (which totals the sales of all items in each department and returns a single total sum) and they are able to create new departments which are updated in the database and able to be used in the Manager fuctions when a new item is created.
+Using the bamazonSupervisor.js file, supervisors are able to perform multiple functions.  Supervisors are able to view sales by department (which totals the sales of all items in each department and returns a single total sum per deptartment) and they are able to create new departments which are updated in the database and able to be used in the Manager fuctions when a new item is created.
