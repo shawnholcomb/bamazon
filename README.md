@@ -1,7 +1,7 @@
-# Bamazon - Terminal based E-Commerce Application
 <p align="center">
   <img src="http://i68.tinypic.com/2v8mzjk.jpg">
 </p>
+# Bamazon - Terminal based E-Commerce Application
 
 ## Description
 
