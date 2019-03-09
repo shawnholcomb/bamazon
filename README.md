@@ -10,7 +10,7 @@ Bamazon is a terminal based application built upon Node.JS and MySQL.  A MySQL d
 
 ### Customer Functions
 
-![Customer Functions](https://vimeo.com/user95991903/review/322370040/6e3bab6db4)
+![Customer Functions](https://media.giphy.com/media/dn0w34qtRiqVmzxWSD/giphy.gif)
 
 Using the bamazonCustomer.js file, customers are able to "purchase" products.  The Node package **Inquirer** is utilized to gather input from the user and determine which products they are interested in.  That product quantity is removed from inventory stored in MySQL and the purchase total is provided to the user as well as stored as part of the total sales for the product's department.
 
