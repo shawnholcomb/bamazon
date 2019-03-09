@@ -16,12 +16,12 @@ Using the bamazonCustomer.js file, customers are able to "purchase" products.  T
 
 ### Manager Functions
 
-![Manager Functions]()
+![Manager Functions](https://media.giphy.com/media/1qcQN0WgSLRQfcFb8d/giphy.gif)
 
 Using the bamazonManager.js file, managers are able to perform a number of functions.  They are able to view a table of all items currently available, view low inventory (defined as any item with fewer than 5 units in inventory), add additional quantities of current products into inventory and add new products into inventory.
 
 ### Supervisor Functions
 
-![Supervisor Functions]()
+![Supervisor Functions](https://media.giphy.com/media/1ZDyiUv0NrAdQJnQTU/giphy.gif)
 
 Using the bamazonSupervisor.js file, supervisors are able to perform multiple functions.  Supervisors are able to view sales by department (which totals the sales of all items in each department and returns a single total sum) and they are able to create new departments which are updated in the database and able to be used in the Manager fuctions when a new item is created.
